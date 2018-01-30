@@ -6,10 +6,19 @@
     <description>Recent content on ATFutures</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 30 Jan 2018 16:33:06 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2018 16:50:08 +0100</lastBuildDate>
     
 	<atom:link href="https://atfutures.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data</title>
+      <link>https://atfutures.github.io/blogs/data/</link>
+      <pubDate>Tue, 30 Jan 2018 16:50:08 +0100</pubDate>
+      
+      <guid>https://atfutures.github.io/blogs/data/</guid>
+      <description>We rely primarily on data for street networks from Open Street Map (OSM) and for population densities from worldpop.</description>
+    </item>
     
     <item>
       <title>Software</title>
