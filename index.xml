@@ -6,10 +6,31 @@
     <description>Recent content on ATFutures</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 30 Jan 2018 12:12:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2018 16:33:06 +0100</lastBuildDate>
     
 	<atom:link href="https://atfutures.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Software</title>
+      <link>https://atfutures.github.io/blogs/software/</link>
+      <pubDate>Tue, 30 Jan 2018 16:33:06 +0100</pubDate>
+      
+      <guid>https://atfutures.github.io/blogs/software/</guid>
+      <description>Our primary software tools are developed as modular R packages, including:
+ osmdata, a package for very efficient and flexible extraction of data from Open Street Map (OSM). dodgr (Distances on Directed Graphs in R), a package for highly efficient and scalable routing and allocation of aggregate flows on complex, dual-weighted graphs.  </description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://atfutures.github.io/blogs/people/</link>
+      <pubDate>Tue, 30 Jan 2018 16:32:59 +0100</pubDate>
+      
+      <guid>https://atfutures.github.io/blogs/people/</guid>
+      <description>Active Travel Futures is, in alphabetical order of first names only,
+Mark Padgham of the Department of Geoinformatics at the University of Salzburg, Austria.
+Robin Lovelace of the Insitute for Transport Studies and the Leeds Institute for Data Analytics, both at Leeds University, U.K.</description>
+    </item>
     
     <item>
       <title>Prototype Tool for the World Health Organization</title>
