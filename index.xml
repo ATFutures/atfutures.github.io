@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ATFutures</title>
+    <link>https://atfutures.github.io/</link>
+    <description>Recent content on ATFutures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 30 Jan 2018 12:12:10 +0100</lastBuildDate>
+    
+	<atom:link href="https://atfutures.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prototype Tool for the World Health Organization</title>
+      <link>https://atfutures.github.io/blogs/who1/</link>
+      <pubDate>Tue, 30 Jan 2018 12:12:10 +0100</pubDate>
+      
+      <guid>https://atfutures.github.io/blogs/who1/</guid>
+      <description>We are currently developing a prototype tool for the World Health Organization to aid the cities of Accra, Ghana, and Kathmandu, Nepal, to effectively plan active travel futures. The project is developed as an entirely open and repeatable github repository, with the initial report available here.</description>
+    </item>
+    
+    <item>
+      <title>New Urban Agenda</title>
+      <link>https://atfutures.github.io/blogs/new-urban-agenda/</link>
+      <pubDate>Tue, 30 Jan 2018 12:02:10 +0100</pubDate>
+      
+      <guid>https://atfutures.github.io/blogs/new-urban-agenda/</guid>
+      <description>ATFutures and the New Urban Agenda The aims of Active Travel Futures reflect and strive to meet the following paragraphs from the New Urban Agenda document produced from the United Nations Habitat III Conference (Quito, Ecuador, 20 Oct 2016). Highlighting is ours, used to emphasis our particular agenda.
+Paragraph #113 &amp;lsquo;We will take measures to improve road safety and integrate it into sustainable mobility and transport infrastructure planning and design.</description>
+    </item>
+    
+    <item>
+      <title>Active Travel Futures</title>
+      <link>https://atfutures.github.io/blogs/atf/</link>
+      <pubDate>Tue, 30 Jan 2018 11:56:58 +0100</pubDate>
+      
+      <guid>https://atfutures.github.io/blogs/atf/</guid>
+      <description>Active Travel Futures develops and provides globally scalable software to aid cities to plan futures in which active travel such as walking and cycling play increasingly prominent roles. Our tools use open sources of data with global coverage and aim to be globally applicable independent of the availability of local data.
+This work is currently being developed in conjunction with the World Health Organization, for which we are developing a prototype tool to aid planning active travel futures in Accra, Ghana, and Kathmandu, Nepal.</description>
+    </item>
+    
+  </channel>
+</rss>
