@@ -47,7 +47,7 @@ Mark Padgham of the Department of Geoinformatics at the University of Salzburg, 
       <pubDate>Tue, 30 Jan 2018 12:12:10 +0100</pubDate>
       
       <guid>https://atfutures.github.io/blogs/who1/</guid>
-      <description>We are currently developing a prototype tool for the World Health Organization to aid the cities of Accra, Ghana, and Kathmandu, Nepal, to effectively plan active travel futures. The project is developed as an entirely open and repeatable github repository, with the initial report available here.</description>
+      <description>We are currently developing a prototype tool for the World Health Organization to aid the cities of Accra, Ghana, and Kathmandu, Nepal, to effectively plan active transport futures. The project is developed as an entirely open and repeatable github repository, with the initial report available here.</description>
     </item>
     
     <item>
@@ -61,13 +61,13 @@ Paragraph #113 &amp;lsquo;We will take measures to improve road safety and integ
     </item>
     
     <item>
-      <title>Active Travel Futures</title>
+      <title>Active Transport Futures</title>
       <link>https://atfutures.github.io/blogs/atf/</link>
       <pubDate>Tue, 30 Jan 2018 11:56:58 +0100</pubDate>
       
       <guid>https://atfutures.github.io/blogs/atf/</guid>
-      <description>Active Travel Futures develops and provides globally scalable software to aid cities to plan futures in which active travel such as walking and cycling play increasingly prominent roles. Our tools use open sources of data with global coverage and aim to be globally applicable independent of the availability of local data.
-This work is currently being developed in conjunction with the World Health Organization, for which we are developing a prototype tool to aid planning active travel futures in Accra, Ghana, and Kathmandu, Nepal.</description>
+      <description>Active Transport Futures develops and provides globally scalable software to aid cities to plan futures in which active transport such as walking and cycling play increasingly prominent roles. Our tools use open sources of data with global coverage and aim to be globally applicable independent of the availability of local data.
+This work is currently being developed in conjunction with the World Health Organization, for which we are developing a prototype tool to aid planning active transport futures in Accra, Ghana, and Kathmandu, Nepal.</description>
     </item>
     
   </channel>
