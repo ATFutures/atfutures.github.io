@@ -17,7 +17,7 @@
       <pubDate>Tue, 30 Jan 2018 16:50:08 +0100</pubDate>
       
       <guid>https://atfutures.github.io/about-us/data/</guid>
-      <description>The data we use We rely primarily on data for street networks from Open Street Map (OSM) and for population densities from worldpop.</description>
+      <description>The data we use We rely primarily on data for street networks from Open Street Map (OSM) and for population densities from worldpop. Additional data used to calibrate global-scale models are obtained from the Integrated Public Use Microdata Series, hosted by the Minnesota Population Center at Minnesota University, U.S.A.</description>
     </item>
     
     <item>
@@ -37,8 +37,8 @@
       
       <guid>https://atfutures.github.io/about-us/people/</guid>
       <description>Active Transport Futures is, from left to right in the picture,
-Robin Lovelace of the Insitute for Transport Studies and the Leeds Institute for Data Analytics, both at Leeds University, U.K.
-Mark Padgham of the Department of Geoinformatics at the University of Salzburg, Austria.</description>
+Mark Padgham of the Department of Geoinformatics at the University of Salzburg, Austria.
+Robin Lovelace of the Insitute for Transport Studies and the Leeds Institute for Data Analytics, both at Leeds University, U.K.</description>
     </item>
     
     <item>
@@ -66,8 +66,7 @@ Paragraph #113 &amp;lsquo;We will take measures to improve road safety and integ
       <pubDate>Tue, 30 Jan 2018 11:56:58 +0100</pubDate>
       
       <guid>https://atfutures.github.io/about-us/atf/</guid>
-      <description>Active Transport Futures develops and provides globally scalable software to aid cities to plan futures in which active transport such as walking and cycling play increasingly prominent roles. Our tools use open sources of data with global coverage and aim to be globally applicable independent of the availability of local data.
-This work is currently being developed in conjunction with the World Health Organization, for which we are developing a prototype tool to aid planning active transport futures in Accra, Ghana, and Kathmandu, Nepal.</description>
+      <description>Active Transport Futures develops and provides globally scalable software to aid cities to plan futures in which active transport such as walking and cycling play increasingly prominent roles. Our tools use open sources of data with global coverage, and can be minimally implemented independent of the availability of local data. Where no local data are available, tools are calibrated using global data sets (see Data); locally provided data can readily be implemented to ensure appropriate calibration to local needs and behaviours.</description>
     </item>
     
   </channel>
