@@ -1,0 +1,201 @@
+<!DOCTYPE HTML>
+<html>
+
+    <head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="description" content="global scale open source software for planning urban futures for active transport">
+	<meta name="author" content="Active Transport Futures">
+	<meta name="generator" content="Hugo 0.34" />
+	<title>The Active Transport Futures Toolkit &middot; ATFutures</title>
+	<!-- Stylesheets -->
+	
+	<link rel="stylesheet" href="https://atfutures.github.io/css/main.css"/>
+	
+	
+
+	
+
+	<!-- Custom Fonts -->
+	<link href="https://atfutures.github.io/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+	
+	<link rel="shortcut icon" type="image/x-icon" href="https://atfutures.github.io/favicon.ico">
+	<link rel="icon" type="image/x-icon" href="https://atfutures.github.io/favicon.ico">
+	
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="js/ie/html5shiv.js"></script>
+	<script src="js/ie/html5shiv.jsrespond.min.js"></script>
+	<![endif]-->
+</head>
+    <body>
+
+    <!-- Wrapper -->
+        <div id="wrapper">
+
+            <!-- Header -->
+    <header id="header" class="alt">
+        <a href="https://atfutures.github.io" class="logo"><strong>ATFutures</strong> <span>Active Transport Futures</span></a>
+        <nav>
+            <a href="#menu">Menu</a>
+        </nav>
+    </header>
+
+<!-- Menu -->
+    <nav id="menu">
+        <ul class="links">
+            
+                <li><a href="https://atfutures.github.io">Home</a></li>
+            
+                <li><a href="https://atfutures.github.io/about-us">About Us</a></li>
+            
+                <li><a href="https://atfutures.github.io/blogs">Blog</a></li>
+            
+
+        </ul>
+        <ul class="actions vertical">
+            
+                <li><a href="https://atfutures.github.io/about-us" class="button special fit">Get Started</a></li>
+            
+            
+        </ul>
+    </nav>
+
+        <!-- Main -->
+            <div id="main" class="alt">
+
+                
+                    <section id="one">
+                        <div class="inner">
+                            <header class="major">
+                                <h1>The Active Transport Futures Toolkit</h1>
+                            </header>
+                            
+                            
+
+<p>Active Transport Futures develops and provides a globally scalable toolkit to
+aid cities to plan futures in which active transport such as walking and cycling
+play increasingly prominent roles. Our toolkit uses open sources of data with
+global coverage, and can be minimally implemented independent of the
+availability of local data. Where no local data are available, local estimates
+can be calibrated using global data sets (see <a href="../data">Data</a>); locally provided
+data can readily be incorporated at any stage to enhance or ensure calibration
+to local needs and behaviours. The toolkit is largely being developed as part of
+a larger World Health Organization project, for which we are developing a
+<a href="../who1">prototype tool</a> to aid planning active transport futures in Accra,
+Ghana, and Kathmandu, Nepal.</p>
+
+<h2 id="modularity">Modularity</h2>
+
+<p>Our Toolkit is a true <em>kit</em> of highly modular components. Each application
+generally draws on the following four primary components:</p>
+
+<ol>
+<li>The transport network of a study city (generally a street network, although
+public transport networks are also usually incorporated);</li>
+<li>Modules to allocate population density estimates onto the underlying network.</li>
+<li>Our own extremely efficient and scalable routing engine which can allocate
+and aggregate transport flows along every segment of an entire network.</li>
+<li>Modules to translate resultant transport patterns into a range of metrics
+reflecting and representing local priorities, needs, and desires.</li>
+</ol>
+
+<p>These basic components may be applied to any given city using <a href="../data">global-scale
+openly available data</a>, yet are also highly customisable to local
+circumstances. The provision of local data such as origin-destination data, or
+travel diaries, will generally greatly enhance the ability of estimates to
+reflect local conditions.</p>
+
+<h2 id="multi-modal-and-first-mile-last-mile-transport">Multi-Modal and First-Mile/Last-Mile Transport</h2>
+
+<p>Our toolkit is generally used to estimate patterns of pedestrian or bicycle
+transport, yet these will always be strongly coupled with larger-scale public
+transport systems. This will commonly be manifest through so-called first- and
+last-mile transport behaviour, by which people begin journeys by walking or
+cycling to public transport stops (the first mile), and finish journeys by again
+walking or cycling from terminal public transport stops. Our toolkit can
+estimate active transport behaviour both as a process in its own right
+independent of public transport, and in direct connection with public transport
+as first-mile/last-mile active transport.</p>
+
+<p>If a study city can provide information on relative proportions of active
+transport trips used for first-mile/last-mile connections versus active
+transport in its own right, these two layers can be combined to generate
+aggregate flows which accurately reflect these two categorically distinct modes
+of active transport. Alternatively, where such local information is not
+available, the two layers will nevertheless provide distinctly useful
+information on the overall active transport behaviour of a city.</p>
+
+<h2 id="toolkit-outputs">Toolkit Outputs</h2>
+
+<p>Most of the computational work performed within our toolkit is expended
+assigning and aggregating transit flows throughout an urban network. Each
+application will likely require these aggregate flows to be translated into one
+or more metrics of unique local relevance, such as:</p>
+
+<ol>
+<li>Aggregated absolute or relative numbers of individuals travelling throughout
+a city.</li>
+</ol>
+
+<p>Our primary source of data is <a href="https://openstreetmap.org">Open Street Map</a>,
+accessed via our own <a href="https://ropensci.github.io/osmdata"><strong>R</strong> package
+<code>osmdata</code></a>, with tools constructed using our
+extremely efficient and scalable routing engine
+<a href="https://atfutures.github.io/dodgr/"><code>dodgr</code></a>  (Distances on Directed Graphs in
+R).</p>
+
+                        </div>
+                    </section>
+            </div>
+            
+        <!-- Footer -->
+            
+                <!-- Footer -->
+    <footer id="footer">
+        <div class="inner">
+            <ul class="icons">
+                
+                    <li><a href="https://www.twitter.com/RobinLovelace" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+                
+                    <li><a href="https://www.twitter.com/mpadge" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+                
+                    <li><a href="https://www.github.com/ATFutures" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+                
+            </ul>
+            <ul class="copyright">
+                <li>&copy; ATFutures</li>
+                
+                <li>Design: hugo&#43;forty <a href="https://themes.gohugo.io/forty/">forty</a></li>
+                
+            </ul>
+        </div>
+    </footer>
+
+            
+        </div>
+
+    <!-- Scripts -->
+        <!-- Scripts -->
+    <!-- jQuery -->
+    <script src="https://atfutures.github.io/js/jquery.min.js"></script>
+    <script src="https://atfutures.github.io/js/jquery.scrolly.min.js"></script>
+    <script src="https://atfutures.github.io/js/jquery.scrollex.min.js"></script>
+    <script src="https://atfutures.github.io/js/skel.min.js"></script>
+    <script src="https://atfutures.github.io/js/util.js"></script>
+
+    
+
+    <!-- Main JS -->
+    <script src="https://atfutures.github.io/js/main.js"></script>
+
+    
+
+    
+
+    </body>
+</html>

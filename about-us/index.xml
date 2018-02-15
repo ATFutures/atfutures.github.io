@@ -60,12 +60,12 @@ Paragraph #113 &amp;lsquo;We will take measures to improve road safety and integ
     </item>
     
     <item>
-      <title>Active Transport Futures</title>
-      <link>https://atfutures.github.io/about-us/atf/</link>
+      <title>The Active Transport Futures Toolkit</title>
+      <link>https://atfutures.github.io/about-us/atft/</link>
       <pubDate>Tue, 30 Jan 2018 11:56:58 +0100</pubDate>
       
-      <guid>https://atfutures.github.io/about-us/atf/</guid>
-      <description>Active Transport Futures develops and provides globally scalable software to aid cities to plan futures in which active transport such as walking and cycling play increasingly prominent roles. Our tools use open sources of data with global coverage, and can be minimally implemented independent of the availability of local data. Where no local data are available, tools are calibrated using global data sets (see Data); locally provided data can readily be implemented to ensure appropriate calibration to local needs and behaviours.</description>
+      <guid>https://atfutures.github.io/about-us/atft/</guid>
+      <description>Active Transport Futures develops and provides a globally scalable toolkit to aid cities to plan futures in which active transport such as walking and cycling play increasingly prominent roles. Our toolkit uses open sources of data with global coverage, and can be minimally implemented independent of the availability of local data. Where no local data are available, local estimates can be calibrated using global data sets (see Data); locally provided data can readily be incorporated at any stage to enhance or ensure calibration to local needs and behaviours.</description>
     </item>
     
   </channel>
