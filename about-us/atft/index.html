@@ -110,17 +110,35 @@ circumstances. The provision of local data such as origin-destination data, or
 travel diaries, will generally greatly enhance the ability of estimates to
 reflect local conditions.</p>
 
+<h2 id="layered-analysis">Layered Analysis</h2>
+
+<p>The Active Transport Futures Toolkit is generally used to analyse a suite of
+distinct <strong>layers</strong>, with a single layer reflecting the active transport
+behaviour of a distinct group of people. Layers might be analysed for
+times of day; demographic groups such as age groups; economic groups; or any
+other grouping for which characteristic data are available. Input data
+representing spatial concentrations of a desired group are then used to estimate
+travel behaviour throughout a network, with behaviour from all groups generally
+aggregated to yield an overall view of the active transport behaviour of a city.
+Of course, individual layers can also be analysed with the same detail, and
+using the same tools, as the single aggregate layer.</p>
+
+<p>Importantly, we also analyse layers for distinct categories of trips, typically
+analysing travel to and from work, and travel for purposes of education,
+recreation, or shopping. Each of these categories can also be decomposed by any
+of the above socio-demographic or economic variables.</p>
+
 <h2 id="multi-modal-and-first-mile-last-mile-transport">Multi-Modal and First-Mile/Last-Mile Transport</h2>
 
 <p>Our toolkit is generally used to estimate patterns of pedestrian or bicycle
 transport, yet these will always be strongly coupled with larger-scale public
-transport systems. This will commonly be manifest through so-called first- and
-last-mile transport behaviour, by which people begin journeys by walking or
-cycling to public transport stops (the first mile), and finish journeys by again
-walking or cycling from terminal public transport stops. Our toolkit can
-estimate active transport behaviour both as a process in its own right
-independent of public transport, and in direct connection with public transport
-as first-mile/last-mile active transport.</p>
+transport systems. Such coupling will commonly be manifest through so-called
+first- and last-mile transport behaviour, by which people begin journeys by
+walking or cycling to public transport stops (the first mile), and finish
+journeys by again walking or cycling from terminal public transport stops. Our
+toolkit can estimate active transport behaviour both as a process in its own
+right independent of public transport, and in direct connection with public
+transport as first-mile/last-mile active transport.</p>
 
 <p>If a study city can provide information on relative proportions of active
 transport trips used for first-mile/last-mile connections versus active
@@ -133,7 +151,7 @@ information on the overall active transport behaviour of a city.</p>
 <h2 id="toolkit-outputs">Toolkit Outputs</h2>
 
 <p>Most of the computational work performed within our toolkit is expended
-assigning and aggregating transit flows throughout an urban network. Each
+assigning and aggregating transport flows throughout an urban network. Each
 application will likely require these aggregate flows to be translated into one
 or more metrics of unique local relevance, such as:</p>
 
@@ -141,13 +159,6 @@ or more metrics of unique local relevance, such as:</p>
 <li>Aggregated absolute or relative numbers of individuals travelling throughout
 a city.</li>
 </ol>
-
-<p>Our primary source of data is <a href="https://openstreetmap.org">Open Street Map</a>,
-accessed via our own <a href="https://ropensci.github.io/osmdata"><strong>R</strong> package
-<code>osmdata</code></a>, with tools constructed using our
-extremely efficient and scalable routing engine
-<a href="https://atfutures.github.io/dodgr/"><code>dodgr</code></a>  (Distances on Directed Graphs in
-R).</p>
 
                         </div>
                     </section>
