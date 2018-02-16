@@ -6,7 +6,6 @@
     <description>Recent content on ATFutures</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 30 Jan 2018 16:50:08 +0100</lastBuildDate>
     
 	<atom:link href="https://atfutures.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,26 +13,16 @@
     <item>
       <title>Data</title>
       <link>https://atfutures.github.io/about-us/data/</link>
-      <pubDate>Tue, 30 Jan 2018 16:50:08 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atfutures.github.io/about-us/data/</guid>
       <description>The data we use We rely primarily on data for street networks from Open Street Map (OSM) and for population densities from worldpop. Additional data used to calibrate global-scale models are obtained from the Integrated Public Use Microdata Series, hosted by the Minnesota Population Center at Minnesota University, U.S.A.</description>
     </item>
     
     <item>
-      <title>Software</title>
-      <link>https://atfutures.github.io/about-us/software/</link>
-      <pubDate>Tue, 30 Jan 2018 16:33:06 +0100</pubDate>
-      
-      <guid>https://atfutures.github.io/about-us/software/</guid>
-      <description>Our primary software tools are developed as modular R packages, including:
- osmdata, a package for very efficient and flexible extraction of data from Open Street Map (OSM). For a description of the package and its functionality, see the vignette. In short, osmdata allows street networks for entire cities to be downloaded and analysed in a few short lines of code and within a few seconds. dodgr (Distances on Directed Graphs in R), a package for highly efficient and scalable routing and allocation of aggregate flows on complex, dual-weighted graphs.</description>
-    </item>
-    
-    <item>
       <title>People</title>
       <link>https://atfutures.github.io/about-us/people/</link>
-      <pubDate>Tue, 30 Jan 2018 16:32:59 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atfutures.github.io/about-us/people/</guid>
       <description>Active Transport Futures is, from left to right in the picture,
@@ -43,29 +32,38 @@ Mark Padgham Department of Geoinformatics at the University of Salzburg, Austria
     <item>
       <title>Prototype Tool for the World Health Organization</title>
       <link>https://atfutures.github.io/about-us/who1/</link>
-      <pubDate>Tue, 30 Jan 2018 12:12:10 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atfutures.github.io/about-us/who1/</guid>
       <description>We are currently developing a prototype tool for the World Health Organization to aid the cities of Accra, Ghana, and Kathmandu, Nepal, to effectively plan active transport futures. The project is developed as an entirely open and repeatable github repository, with the initial report available here.</description>
     </item>
     
     <item>
-      <title>New Urban Agenda</title>
-      <link>https://atfutures.github.io/about-us/new-urban-agenda/</link>
-      <pubDate>Tue, 30 Jan 2018 12:02:10 +0100</pubDate>
+      <title>Software</title>
+      <link>https://atfutures.github.io/about-us/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atfutures.github.io/about-us/new-urban-agenda/</guid>
-      <description>ATFutures and the New Urban Agenda The aims of Active Transport Futures reflect and strive to meet the following paragraphs from the New Urban Agenda document produced from the United Nations Habitat III Conference (Quito, Ecuador, 20 Oct 2016). Highlighting is ours, used to emphasis our particular agenda.
-Paragraph #113 &amp;lsquo;We will take measures to improve road safety and integrate it into sustainable mobility and transport infrastructure planning and design.</description>
+      <guid>https://atfutures.github.io/about-us/software/</guid>
+      <description>Our primary software tools are developed as modular R packages, including:
+ osmdata, a package for very efficient and flexible extraction of data from Open Street Map (OSM). For a description of the package and its functionality, see the vignette. In short, osmdata allows street networks for entire cities to be downloaded and analysed in a few short lines of code and within a few seconds. dodgr (Distances on Directed Graphs in R), a package for highly efficient and scalable routing and allocation of aggregate flows on complex, dual-weighted graphs.</description>
     </item>
     
     <item>
       <title>The Active Transport Futures Toolkit</title>
       <link>https://atfutures.github.io/about-us/atft/</link>
-      <pubDate>Tue, 30 Jan 2018 11:56:58 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atfutures.github.io/about-us/atft/</guid>
       <description>Active Transport Futures develops and provides a globally scalable toolkit to aid cities to plan futures in which active transport such as walking and cycling play increasingly prominent roles. Our toolkit uses open sources of data with global coverage, and can be minimally implemented independent of the availability of local data. Where no local data are available, local estimates can be calibrated using global data sets (see Data); locally provided data can readily be incorporated at any stage to enhance or ensure calibration to local needs and behaviours.</description>
+    </item>
+    
+    <item>
+      <title>The Propensity to Cycle Tool</title>
+      <link>https://atfutures.github.io/about-us/pct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/about-us/pct/</guid>
+      <description>The United Kingdom&amp;rsquo;s Propensity to Cycle Tool (PCT) and the Cycling Infrastructure Prioritization Toolkit (CYIPT). The ATFutures Toolkit builds on our expertise developing the United Kingdom&amp;rsquo;s Propensity to Cycle Tool (PCT) and the Cycling Infrastructure Prioritization Toolkit (CYIPT). Team member Robin Lovelace was the lead developer for both of these tools.</description>
     </item>
     
   </channel>

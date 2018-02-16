@@ -6,7 +6,7 @@
     <description>Recent content in Categories on ATFutures</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 30 Jan 2018 16:50:08 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2018 11:56:58 +0100</lastBuildDate>
     
 	<atom:link href="https://atfutures.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title></title>
       <link>https://atfutures.github.io/categories/</link>
-      <pubDate>Tue, 30 Jan 2018 16:50:08 +0100</pubDate>
+      <pubDate>Tue, 30 Jan 2018 11:56:58 +0100</pubDate>
       
       <guid>https://atfutures.github.io/categories/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Atf</title>
       <link>https://atfutures.github.io/categories/atf/</link>
-      <pubDate>Tue, 30 Jan 2018 11:56:58 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atfutures.github.io/categories/atf/</guid>
       <description></description>
@@ -48,27 +48,36 @@
     </item>
     
     <item>
+      <title>Cyipt</title>
+      <link>https://atfutures.github.io/categories/cyipt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/categories/cyipt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data</title>
       <link>https://atfutures.github.io/categories/data/</link>
-      <pubDate>Tue, 30 Jan 2018 16:50:08 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atfutures.github.io/categories/data/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>New Urban Agenda</title>
-      <link>https://atfutures.github.io/categories/new-urban-agenda/</link>
-      <pubDate>Tue, 30 Jan 2018 12:02:10 +0100</pubDate>
+      <title>Pct</title>
+      <link>https://atfutures.github.io/categories/pct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atfutures.github.io/categories/new-urban-agenda/</guid>
+      <guid>https://atfutures.github.io/categories/pct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
       <link>https://atfutures.github.io/categories/people/</link>
-      <pubDate>Tue, 30 Jan 2018 16:32:59 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atfutures.github.io/categories/people/</guid>
       <description></description>
@@ -77,7 +86,7 @@
     <item>
       <title>Projects</title>
       <link>https://atfutures.github.io/categories/projects/</link>
-      <pubDate>Tue, 30 Jan 2018 12:12:10 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atfutures.github.io/categories/projects/</guid>
       <description></description>
@@ -86,25 +95,16 @@
     <item>
       <title>Software</title>
       <link>https://atfutures.github.io/categories/software/</link>
-      <pubDate>Tue, 30 Jan 2018 16:33:06 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atfutures.github.io/categories/software/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>United Nations</title>
-      <link>https://atfutures.github.io/categories/united-nations/</link>
-      <pubDate>Tue, 30 Jan 2018 12:02:10 +0100</pubDate>
-      
-      <guid>https://atfutures.github.io/categories/united-nations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>World Health Organization</title>
       <link>https://atfutures.github.io/categories/world-health-organization/</link>
-      <pubDate>Tue, 30 Jan 2018 12:12:10 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atfutures.github.io/categories/world-health-organization/</guid>
       <description></description>

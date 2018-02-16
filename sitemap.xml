@@ -3,31 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://atfutures.github.io/about-us/data/</loc>
-    <lastmod>2018-01-30T16:50:08+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atfutures.github.io/about-us/software/</loc>
-    <lastmod>2018-01-30T16:33:06+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atfutures.github.io/about-us/people/</loc>
-    <lastmod>2018-01-30T16:32:59+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atfutures.github.io/about-us/who1/</loc>
-    <lastmod>2018-01-30T12:12:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atfutures.github.io/about-us/new-urban-agenda/</loc>
-    <lastmod>2018-01-30T12:02:10+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atfutures.github.io/about-us/</loc>
     <lastmod>2018-01-30T11:56:58+01:00</lastmod>
   </url>
@@ -38,19 +13,13 @@
   </url>
   
   <url>
-    <loc>https://atfutures.github.io/about-us/atft/</loc>
-    <lastmod>2018-01-30T11:56:58+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atfutures.github.io/categories/</loc>
-    <lastmod>2018-01-30T16:50:08+01:00</lastmod>
+    <lastmod>2018-01-30T11:56:58+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://atfutures.github.io/</loc>
-    <lastmod>2018-01-30T16:50:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -62,7 +31,6 @@
   
   <url>
     <loc>https://atfutures.github.io/categories/atf/</loc>
-    <lastmod>2018-01-30T11:56:58+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -74,38 +42,54 @@
   
   <url>
     <loc>https://atfutures.github.io/categories/</loc>
-    <lastmod>2018-01-30T16:50:08+01:00</lastmod>
+    <lastmod>2018-01-30T11:56:58+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atfutures.github.io/categories/cyipt/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://atfutures.github.io/categories/data/</loc>
-    <lastmod>2018-01-30T16:50:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atfutures.github.io/categories/new-urban-agenda/</loc>
-    <lastmod>2018-01-30T12:02:10+01:00</lastmod>
+    <loc>https://atfutures.github.io/about-us/data/</loc>
+  </url>
+  
+  <url>
+    <loc>https://atfutures.github.io/categories/pct/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://atfutures.github.io/categories/people/</loc>
-    <lastmod>2018-01-30T16:32:59+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atfutures.github.io/about-us/people/</loc>
   </url>
   
   <url>
     <loc>https://atfutures.github.io/categories/projects/</loc>
-    <lastmod>2018-01-30T12:12:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://atfutures.github.io/about-us/who1/</loc>
+  </url>
+  
+  <url>
     <loc>https://atfutures.github.io/categories/software/</loc>
-    <lastmod>2018-01-30T16:33:06+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atfutures.github.io/about-us/software/</loc>
   </url>
   
   <url>
@@ -114,14 +98,15 @@
   </url>
   
   <url>
-    <loc>https://atfutures.github.io/categories/united-nations/</loc>
-    <lastmod>2018-01-30T12:02:10+01:00</lastmod>
-    <priority>0</priority>
+    <loc>https://atfutures.github.io/about-us/atft/</loc>
+  </url>
+  
+  <url>
+    <loc>https://atfutures.github.io/about-us/pct/</loc>
   </url>
   
   <url>
     <loc>https://atfutures.github.io/categories/world-health-organization/</loc>
-    <lastmod>2018-01-30T12:12:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
