@@ -61,6 +61,11 @@
   </url>
   
   <url>
+    <loc>https://atfutures.github.io/events/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://atfutures.github.io/categories/pct/</loc>
     <priority>0</priority>
   </url>
@@ -103,6 +108,10 @@
   
   <url>
     <loc>https://atfutures.github.io/about-us/pct/</loc>
+  </url>
+  
+  <url>
+    <loc>https://atfutures.github.io/events/pct/</loc>
   </url>
   
   <url>
