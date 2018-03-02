@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ATFutures</title>
+    <link>https://atfutures.github.io/</link>
+    <description>Recent content on ATFutures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://atfutures.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data</title>
+      <link>https://atfutures.github.io/about-us/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/about-us/data/</guid>
+      <description>The data we use We rely primarily on data for street networks from Open Street Map (OSM) and for population densities from worldpop. Additional data used to calibrate global-scale models are obtained from the Integrated Public Use Microdata Series, hosted by the Minnesota Population Center at Minnesota University, U.S.A.</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://atfutures.github.io/about-us/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/about-us/people/</guid>
+      <description>Active Transport Futures is, from left to right in the picture,
+Mark Padgham Department of Geoinformatics at the University of Salzburg, Austria.  Robin Lovelace Insitute for Transport Studies and the Leeds Institute for Data Analytics, both at Leeds University, U.K.</description>
+    </item>
+    
+    <item>
+      <title>Prototype Tool for the World Health Organization</title>
+      <link>https://atfutures.github.io/about-us/who1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/about-us/who1/</guid>
+      <description>We are currently developing a prototype tool for the World Health Organization to aid the cities of Accra, Ghana, and Kathmandu, Nepal, to effectively plan active transport futures. Examples of our tool in action can be seen in this interactive map of &amp;lsquo;first mile&amp;rsquo; pedestrian flows from towards bus stops, and the equivalent &amp;lsquo;last mile&amp;rsquo; flows from bus stops. Those are flows to and from every single point in the Accra street network respectively from and to every single bus stop.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://atfutures.github.io/about-us/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/about-us/software/</guid>
+      <description>Our primary software tools are developed as modular R packages, including:
+ osmdata, a package for very efficient and flexible extraction of data from Open Street Map (OSM). For a description of the package and its functionality, see the vignette. In short, osmdata allows street networks for entire cities to be downloaded and analysed in a few short lines of code and within a few seconds. dodgr (Distances on Directed Graphs in R), a package for highly efficient and scalable routing and allocation of aggregate flows on complex, dual-weighted graphs.</description>
+    </item>
+    
+    <item>
+      <title>The Active Transport Futures Toolkit</title>
+      <link>https://atfutures.github.io/about-us/atft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/about-us/atft/</guid>
+      <description>Active Transport Futures develops and provides a globally scalable toolkit to aid cities to plan futures in which active transport such as walking and cycling play increasingly prominent roles. Our toolkit uses open sources of data with global coverage, and can be minimally implemented independent of the availability of local data. Where no local data are available, local estimates can be calibrated using global data sets (see Data); locally provided data can readily be incorporated at any stage to enhance or ensure calibration to local needs and behaviours.</description>
+    </item>
+    
+    <item>
+      <title>The Propensity to Cycle Tool</title>
+      <link>https://atfutures.github.io/about-us/pct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/about-us/pct/</guid>
+      <description>The Propensity to Cycle Tool (PCT) The Active Transport Toolkit builds on our expertise developing the Propensity to Cycle Tool (PCT). This is an online, interactive mapping tool to help decide where to prioritise new cycling infrastructure (Lovelace et al. 2017). It&amp;rsquo;s publicly accessible at pct.bike where you can test out it&amp;rsquo;s functionality by clicking on a region.
+The PCT is being used by dozens of local authorities across England to develop strategic cycling networks.</description>
+    </item>
+    
+    <item>
+      <title>WHO Meeting, Paris Feb-March 2018</title>
+      <link>https://atfutures.github.io/events/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/events/events/</guid>
+      <description>We presented our research at the UNESCO premises in Paris as part of a WHO meeting on Tools on the impacts of air pollution and transport on health: WHO work and future developments.
+Instead of a static &amp;lsquo;powerpoint&amp;rsquo; style presentation we presented a series of web pages which set-out the context surrounding and foundations of our &amp;lsquo;Active Transport Toolkit&amp;rsquo; (ATT):
+ Data from the Global Burden of Disease (GBD) portal showing the relationship between deaths from road traffic casualties and air polution in France and Ghana.</description>
+    </item>
+    
+  </channel>
+</rss>

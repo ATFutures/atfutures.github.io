@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atf on ATFutures</title>
+    <link>https://atfutures.github.io/categories/atf/</link>
+    <description>Recent content in Atf on ATFutures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://atfutures.github.io/categories/atf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Active Transport Futures Toolkit</title>
+      <link>https://atfutures.github.io/about-us/atft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/about-us/atft/</guid>
+      <description>Active Transport Futures develops and provides a globally scalable toolkit to aid cities to plan futures in which active transport such as walking and cycling play increasingly prominent roles. Our toolkit uses open sources of data with global coverage, and can be minimally implemented independent of the availability of local data. Where no local data are available, local estimates can be calibrated using global data sets (see Data); locally provided data can readily be incorporated at any stage to enhance or ensure calibration to local needs and behaviours.</description>
+    </item>
+    
+  </channel>
+</rss>

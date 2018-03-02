@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on ATFutures</title>
+    <link>https://atfutures.github.io/categories/data/</link>
+    <description>Recent content in Data on ATFutures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://atfutures.github.io/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data</title>
+      <link>https://atfutures.github.io/about-us/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/about-us/data/</guid>
+      <description>The data we use We rely primarily on data for street networks from Open Street Map (OSM) and for population densities from worldpop. Additional data used to calibrate global-scale models are obtained from the Integrated Public Use Microdata Series, hosted by the Minnesota Population Center at Minnesota University, U.S.A.</description>
+    </item>
+    
+  </channel>
+</rss>

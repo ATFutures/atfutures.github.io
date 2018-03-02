@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>World Health Organization on ATFutures</title>
+    <link>https://atfutures.github.io/categories/world-health-organization/</link>
+    <description>Recent content in World Health Organization on ATFutures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://atfutures.github.io/categories/world-health-organization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prototype Tool for the World Health Organization</title>
+      <link>https://atfutures.github.io/about-us/who1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/about-us/who1/</guid>
+      <description>We are currently developing a prototype tool for the World Health Organization to aid the cities of Accra, Ghana, and Kathmandu, Nepal, to effectively plan active transport futures. Examples of our tool in action can be seen in this interactive map of &amp;lsquo;first mile&amp;rsquo; pedestrian flows from towards bus stops, and the equivalent &amp;lsquo;last mile&amp;rsquo; flows from bus stops. Those are flows to and from every single point in the Accra street network respectively from and to every single bus stop.</description>
+    </item>
+    
+  </channel>
+</rss>

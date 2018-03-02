@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on ATFutures</title>
+    <link>https://atfutures.github.io/categories/people/</link>
+    <description>Recent content in People on ATFutures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://atfutures.github.io/categories/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>People</title>
+      <link>https://atfutures.github.io/about-us/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/about-us/people/</guid>
+      <description>Active Transport Futures is, from left to right in the picture,
+Mark Padgham Department of Geoinformatics at the University of Salzburg, Austria.  Robin Lovelace Insitute for Transport Studies and the Leeds Institute for Data Analytics, both at Leeds University, U.K.</description>
+    </item>
+    
+  </channel>
+</rss>

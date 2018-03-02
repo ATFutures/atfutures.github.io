@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pct on ATFutures</title>
+    <link>https://atfutures.github.io/categories/pct/</link>
+    <description>Recent content in Pct on ATFutures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://atfutures.github.io/categories/pct/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Propensity to Cycle Tool</title>
+      <link>https://atfutures.github.io/about-us/pct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/about-us/pct/</guid>
+      <description>The Propensity to Cycle Tool (PCT) The Active Transport Toolkit builds on our expertise developing the Propensity to Cycle Tool (PCT). This is an online, interactive mapping tool to help decide where to prioritise new cycling infrastructure (Lovelace et al. 2017). It&amp;rsquo;s publicly accessible at pct.bike where you can test out it&amp;rsquo;s functionality by clicking on a region.
+The PCT is being used by dozens of local authorities across England to develop strategic cycling networks.</description>
+    </item>
+    
+    <item>
+      <title>WHO Meeting, Paris Feb-March 2018</title>
+      <link>https://atfutures.github.io/events/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/events/events/</guid>
+      <description>We presented our research at the UNESCO premises in Paris as part of a WHO meeting on Tools on the impacts of air pollution and transport on health: WHO work and future developments.
+Instead of a static &amp;lsquo;powerpoint&amp;rsquo; style presentation we presented a series of web pages which set-out the context surrounding and foundations of our &amp;lsquo;Active Transport Toolkit&amp;rsquo; (ATT):
+ Data from the Global Burden of Disease (GBD) portal showing the relationship between deaths from road traffic casualties and air polution in France and Ghana.</description>
+    </item>
+    
+  </channel>
+</rss>

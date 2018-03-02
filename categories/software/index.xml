@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on ATFutures</title>
+    <link>https://atfutures.github.io/categories/software/</link>
+    <description>Recent content in Software on ATFutures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://atfutures.github.io/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Software</title>
+      <link>https://atfutures.github.io/about-us/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/about-us/software/</guid>
+      <description>Our primary software tools are developed as modular R packages, including:
+ osmdata, a package for very efficient and flexible extraction of data from Open Street Map (OSM). For a description of the package and its functionality, see the vignette. In short, osmdata allows street networks for entire cities to be downloaded and analysed in a few short lines of code and within a few seconds. dodgr (Distances on Directed Graphs in R), a package for highly efficient and scalable routing and allocation of aggregate flows on complex, dual-weighted graphs.</description>
+    </item>
+    
+  </channel>
+</rss>
