@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on ATFutures</title>
+    <link>https://atfutures.github.io/events/</link>
+    <description>Recent content in Events on ATFutures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 30 Jan 2018 11:56:58 +0100</lastBuildDate>
+    
+	<atom:link href="https://atfutures.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WHO Meeting, Paris Feb-March 2018</title>
+      <link>https://atfutures.github.io/events/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atfutures.github.io/events/events/</guid>
+      <description>We presented our research at the UNESCO premises in Paris as part of a WHO meeting on Tools on the impacts of air pollution and transport on health: WHO work and future developments.
+Instead of a static &amp;lsquo;powerpoint&amp;rsquo; style presentation we presented a series of web pages which set-out the context surrounding and foundations of our &amp;lsquo;Active Transport Toolkit&amp;rsquo; (ATT):
+ Data from the Global Burden of Disease (GBD) portal showing the relationship between deaths from road traffic casualties and air polution in France and Ghana.</description>
+    </item>
+    
+  </channel>
+</rss>
