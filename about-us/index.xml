@@ -17,7 +17,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atfutures.github.io/about-us/data/</guid>
-      <description>The data we use We rely primarily on data for street networks from Open Street Map (OSM) and for population densities from worldpop. Additional data used to calibrate global-scale models are obtained from the Integrated Public Use Microdata Series, hosted by the Minnesota Population Center at Minnesota University, U.S.A.</description>
+      <description>The data we use Our global-scale analyses rely primarily on data for street networks from Open Street Map (OSM), population densities from worldpop, and additional behaviour data used for model calibration from the Integrated Public Use Microdata Series, hosted by the Minnesota Population Center at Minnesota University, U.S.A. Local applications are generally supplemented by additional data used to calibrate models to reflect local characteristics and behavioural patterns.
+Open Data Policy Active Transport Futures has an exclusive open data policy in order to</description>
     </item>
     
     <item>
@@ -36,7 +37,7 @@ Mark Padgham Department of Geoinformatics at the University of Salzburg, Austria
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atfutures.github.io/about-us/who1/</guid>
-      <description>We are currently developing a prototype tool for the World Health Organization to aid the cities of Accra, Ghana, and Kathmandu, Nepal, to effectively plan active transport futures. Examples of our tool in action can be seen in this interactive map of &amp;lsquo;first mile&amp;rsquo; pedestrian flows from towards bus stops, and the equivalent &amp;lsquo;last mile&amp;rsquo; flows from bus stops. Those are flows to and from every single point in the Accra street network respectively from and to every single bus stop.</description>
+      <description>Active Transport Futures Software is used by the World Health Organization (WHO) as part of their Urban Health Initiative. An important focus for the WHO is understanding how, when, where, and why people move throughout cities. We are currently developing a prototype tool to aid the cities of Accra, Ghana, and Kathmandu, Nepal, to effectively plan active transport futures. Examples of our tool in action can be seen in this interactive map of &amp;lsquo;first mile&amp;rsquo; pedestrian flows from towards bus stops, and the equivalent &amp;lsquo;last mile&amp;rsquo; flows from bus stops.</description>
     </item>
     
     <item>
