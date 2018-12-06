@@ -57,16 +57,83 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## New features
 
+.pull-left[
 
+- Multimodal trips
+
+- Public transport integration
+
+  - Ingress
+  - Egress
+
+- Pollution
+- HEAT integration
+
+- Crashes
+
+]
 
 --
 
+.pull-right[
 
---
+Estimates of exposure. Source: http://35.233.61.182/exposure
 
+```{r}
+knitr::include_graphics("https://raw.githubusercontent.com/ATFutures/who/master/fig-whoII/pollution-deck.png")
+```
 
---
+]
 
+---
+
+## Pollution - temporal data
+
+```{r}
+knitr::include_graphics("https://raw.githubusercontent.com/ATFutures/who/master/fig-whoII/pollution.png")
+```
+
+---
+
+## Multimodal trips
+
+```{r, fig.cap="Combined walking estimates: ingress and egress"}
+knitr::include_graphics("https://raw.githubusercontent.com/ATFutures/who/master/fig-whoII/accra-ped-flows.png")
+```
+
+---
+
+## Crashes
+
+Source: http://35.233.61.182/?lat=5.583&lng=-0.215&zoom=16
+
+```{r, fig.cap="Combined walking estimates: ingress and egress"}
+knitr::include_graphics("https://raw.githubusercontent.com/ATFutures/who/master/fig-whoII/crashes-accra.jpg")
+```
+
+---
+
+## Local adaptation
+
+```{r}
+knitr::include_graphics("https://raw.githubusercontent.com/mpadge/ms-user-meetup-nov2018/master/img/ms-promenade100.png")
+```
+
+---
+
+## Local adaptation
+
+```{r}
+knitr::include_graphics("https://raw.githubusercontent.com/mpadge/ms-user-meetup-nov2018/master/img/ms-promenade90.png")
+```
+
+---
+
+## Local adaptation
+
+```{r}
+knitr::include_graphics("https://raw.githubusercontent.com/mpadge/ms-user-meetup-nov2018/master/img/ms-promenade70.png")
+```
 ---
 
 ## Stakeholder engagement
