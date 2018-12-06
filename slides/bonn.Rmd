@@ -87,7 +87,7 @@ knitr::include_graphics("https://raw.githubusercontent.com/ATFutures/who/master/
 
 ---
 
-## Pollution - temporal data
+## Pollution II (credit: Layik Hama)
 
 ```{r}
 knitr::include_graphics("https://raw.githubusercontent.com/ATFutures/who/master/fig-whoII/pollution.png")
@@ -156,7 +156,7 @@ knitr::include_graphics("https://raw.githubusercontent.com/npct/pct-team/master/
 
 ## Links + references
 
-> - Contact: r.lovelace@leeds.ac.uk or mpadge@email.com
+> - ntact: r.lovelace@leeds.ac.uk or mark.padgham@email.com
 
 - Active Transport Toolkit: http://35.233.61.182/
 
