@@ -1,0 +1,106 @@
+---
+title: 'The "Active Transport Toolkit (ATT)"'
+subtitle: "🚗🚌🚲🚶<br/>Developments and next steps"
+author: "Robin Lovelace, Mark Padgham"
+date: "World Health Organisation, Bonn, `r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+widescreen: true
+# logo: ../figures/its-logo-square.png
+# bibliography: /home/robin/h/allrefs.bib
+---
+
+
+## Recap on the Active Transport Toolkit
+
+- Prototype [Active Transport Tool](http://35.233.61.182/)
+
+```{r, echo=FALSE, out.width="100%"}
+knitr::include_graphics("https://raw.githubusercontent.com/ATFutures/who/master/fig/accra-flow1-interactive.png")
+```
+
+---
+class: middle, center
+background-image: url(https://raw.githubusercontent.com/npct/pct-team/master/figures/pct-panel-obesity-paper.png)
+background-size: contain
+
+## New methods of transport modelling
+
+--
+
+```{r setup, include = FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(echo = FALSE)
+# library(RefManageR)
+# BibOptions(check.entries = FALSE, 
+#            bib.style = "authoryear", 
+#            cite.style = 'alphabetic', 
+#            style = "markdown",
+#            first.inits = FALSE,
+#            hyperlink = FALSE, 
+#            dashed = FALSE)
+# my_bib = ReadBib("/home/robin/h/allrefs.bib", check = FALSE)
+```
+
+```{r, out.width="60%", eval=FALSE}
+# knitr::include_graphics("https://raw.githubusercontent.com/npct/pct-team/master/figures/pct-panel-obesity-paper.png")
+```
+
+
+- New paper in International Journal of Obesity (Monsivais et al. 2018)
+
+---
+
+## New features
+
+
+
+--
+
+
+--
+
+
+--
+
+---
+
+## Stakeholder engagement
+
+- Vital to get policy makers interested
+- Workshop planned for Accra (2019)
+
+--
+
+```{r, echo=FALSE}
+knitr::include_graphics("https://raw.githubusercontent.com/npct/pct-team/master/figures/front-page-leeds-pct-demo.png")
+```
+
+---
+
+## Next steps
+
+
+---
+
+## Links + references
+
+> - Contact: r.lovelace@leeds.ac.uk or mpadge@email.com
+
+- Active Transport Toolkit: http://35.233.61.182/
+
+- Free open source book on methods: https://geocompr.robinlovelace.net/spatial-class.html
+
+- Package for OpenStreetMap data: https://github.com/ropensci/osmdata
+
+- The PCT in action: http://www.pct.bike/
+- A prototype of the CyIPT: http://cyipt.bike/
+
+- Paper on visualisation for obesity policy: 
+
+Monsivais, P., Francis, O., Lovelace, R., Chang, M., Strachan, E., Burgoine, T., 2018. Data visualisation to support obesity policy: case studies of data tools for planning and transport policy in the UK. International Journal of Obesity 1. https://doi.org/10.1038/s41366-018-0243-6
+
